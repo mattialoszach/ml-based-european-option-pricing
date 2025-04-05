@@ -1,2 +1,2 @@
-# ml-based-european-option-pricing
-Application of Neural Network and XGBoost for European Option Pricing
+# ML-based European Option pricing
+This project compares a Neural Network and XGBoost model for approximating European option prices based on the Black-Scholes formula. A custom dataset will be generated and both models will be evaluated in terms of accuracy, inference time, and deviation from the analytical solution, with future plans to extend this approach to exotic options and more advanced pricing models.
